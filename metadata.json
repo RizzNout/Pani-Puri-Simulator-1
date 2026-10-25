@@ -1,0 +1,6 @@
+{
+  "name": "Pani Puri Simulator 3D",
+  "description": "A colorful, mobile-first 3D street food simulator set in a modern Indian city neighborhood with a central Pani Puri stall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,23 @@
+{
+  "appId": "com.panipurisimulator.game3d",
+  "appName": "Pani Puri Simulator 3D",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "backgroundColor": "#0c0a09",
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1200,
+      "launchAutoHide": true,
+      "backgroundColor": "#0c0a09",
+      "androidScaleType": "CENTER_CROP",
+      "showSpinner": false,
+      "splashFullScreen": true,
+      "splashImmersive": true
+    }
+  }
+}
